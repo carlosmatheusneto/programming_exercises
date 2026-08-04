@@ -8,7 +8,6 @@ int main(){
     std::string aux;
     std::cin >> aux;
     if(s != aux){
-      std::cout << "sexo" << std::endl;
       a++;  
     }
     s = aux;
